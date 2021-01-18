@@ -1,0 +1,1 @@
+INSERT INTO USERS(firstname, lastname, dob, created_at) VALUES('Daniel', 'Okoronkwo', '2001-09-02', '2021-01-17')
